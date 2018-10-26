@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         }
 
 
+        //kk
         buttonTest.setOnClickListener { Toast.makeText(this, "Testtt", Toast.LENGTH_SHORT).show() }
 
     }
